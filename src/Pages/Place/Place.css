@@ -1,0 +1,17 @@
+/* .place-card{
+    background-image: url();
+} */
+
+
+.card-writings {
+    display: flex;
+    align-items: flex-end;
+}
+
+.card-text {}
+
+
+.destination-card:hover {
+    transform: scale(1.08);
+    transition: transform 2s ease;
+}

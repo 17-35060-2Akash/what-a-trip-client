@@ -1,0 +1,13 @@
+.hotel-image {}
+
+.text-on-card {
+    background-color: aliceblue;
+    color: white;
+    padding-top: 2px;
+    padding-right: 7px;
+    padding-bottom: 4px;
+    font-weight: 600;
+    border-radius: 5px;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+
+}

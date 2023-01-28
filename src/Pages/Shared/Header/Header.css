@@ -1,0 +1,29 @@
+.top-bar-menu {
+    flex-wrap: nowrap;
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+    padding: 0 20px;
+}
+
+.top-bar-menu a {
+    color: white;
+    text-decoration: none;
+    /* font-size: larger; */
+    padding: 0 15px;
+    font-weight: 400;
+}
+
+.top-bar-menu a:hover {
+    color: rgb(160, 235, 238);
+}
+
+.searchbar input {
+    /* background-color: rgba(0, 0, 0, 0.008); */
+    background-color: transparent;
+}
+
+.searchbar button {
+    border: 2px solid #199968;
+    font-size: larger;
+}

@@ -1,0 +1,32 @@
+.booking-page-container {
+    /* display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px; */
+    /* display: flex; */
+    margin-top: 4rem;
+}
+
+.description-card {
+    margin: 0 auto;
+    /* margin-right: 30px; */
+}
+
+.des-card-main {
+    width: 19rem;
+}
+
+.booking-form {
+    width: 19rem;
+    /* padding: 0 10px; */
+    margin-left: 15px;
+    margin: 0 auto;
+}
+
+button a {
+    color: black;
+    text-decoration: none;
+}
+
+button a:hover {
+    color: black;
+}

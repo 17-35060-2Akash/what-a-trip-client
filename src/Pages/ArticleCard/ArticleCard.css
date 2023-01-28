@@ -1,0 +1,20 @@
+.article-card {
+    /* margin-top: 50px; */
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.booking-btn a {
+    text-decoration: none;
+    color: black;
+}
+
+.booking-btn a:hover {
+    color: black;
+    /* font-size: larger; */
+}
+
+/* .booking-btn:hover {
+    transform: scale(1.5);
+    transition: transform 2s ease;
+} */

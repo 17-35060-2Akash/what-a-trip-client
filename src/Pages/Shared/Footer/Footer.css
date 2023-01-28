@@ -1,0 +1,12 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    /* background-image: linear-gradient(gray, lightgray); */
+    /* opacity: 0.2; */
+}
+
+.copyr8text {
+    margin: 40px 0;
+    color: aliceblue;
+}
